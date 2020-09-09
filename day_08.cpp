@@ -18,7 +18,7 @@ Explanation: (100) + (101) + (110) + (111) = 4 + 5 + 6 + 7 = 22
 
 //CODE:
 
-/**
+/*
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
